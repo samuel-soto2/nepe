@@ -87,6 +87,44 @@
               <img src="{{ asset('imagenes/negrito.jpg') }}" alt="">
             </div>
           </div>
+          <div class="col-md-6 py-3 py-md-0">
+            <form action="#">
+              <input type="text" class="form-control" placeholder="where to" required><br>
+              <input type="text" class="form-control" placeholder="How Many" required><br>
+              <input type="date" class="form-control" placeholder="Arrivals" required><br>
+              <input type="date" class="form-control" placeholder="Leaving" required><br>
+              <textarea class="form-control" rows="5" name="text" placeholder="entrer you name & detalles"></textarea><br>
+              <input type="submit" value="Aceptar" class="submit" required>
+
+            </form>
+          </div>
+        </div>
+        </div>
+      </section>
+      <!-- section book end -->
+
+
+
+      <!-- section paquetes stard -->
+
+      <section class="paquetes" id="">
+        <div class="container">
+          
+          <div class="main-text">
+            <h1><span>N</span>uestros paquetes y destinos</h1>
+          </div>
+
+          <div class="row" style="margin-top: 30px;">
+
+            <div class="col-md-4 py-3 py-md-0">
+
+              <div class="card">
+              <img src="{{ asset('imagenes/kotosh.jpg') }}" alt="">
+              
+               <!-- <img src="./images/1.webp" alt="">
+                <img src="{{ asset('imagenes/1.webp') }}" alt="">
+-->
+                <div class="card-body">
 
 
 
