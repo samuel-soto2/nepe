@@ -157,7 +157,99 @@
                 <img src="{{ asset('imagenes/1.webp') }}" alt="">
 -->
                 <div class="card-body">
+                <h3> CUEVA DE LAS LECHUZAS </h3>
+                  <p>La Cueva de las Lechuzas en Huánuco, Perú, es una cueva conocida por sus pinturas rupestres antiguas y su población de lechuzas. Es importante tanto para la arqueología como para la observación de aves.</p>
+                  <div class="stard">
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                  </div>
+                  <h6>Precio: <strong>$100.00</strong></h6>
+                  <a href="#book">Reserva ahora</a>
+                </div>
+              </div>
+
+            </div>
+          
+          </div>
+          
+        </div>
+      </section>
+
+      <div class="row" style="margin-top: 30px;">
+
+            <div class="col-md-4 py-3 py-md-0">
+
+              <div class="card">
+              <img src="{{ asset('imagenes/perricholi.jpg') }}" alt="">
+              
+               <!-- <img src="./images/1.webp" alt="">
+                <img src="{{ asset('imagenes/1.webp') }}" alt="">
+-->
+                <div class="card-body">
+                  <h3> LA CASA DE LA PERRICHOLI </h3>
+                  <p>La Casa de la Perricholi se encuentra en el distrito de Tomayquichua, que se sitúa en la provincia de Ambo. Esta construcción es una pieza de la primera mitad del siglo XVIII, que por la notable mujer que un día poblara sus ambientes, es considerada hoy en día parte del Patrimonio Monumental de la Nación.</p>
+                  <div class="stard">
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                  </div>
+                  <h6>Precio: <strong>$30.00</strong></h6>
+                  <a href="#book">Reserva ahora</a>
+                </div>
+              </div>
+
+            </div>
+          
+          </div>
+          
+        </div>
+      </section>
+
+
+      
+
+
+      <!-- section paquetes end -->
+
+      
+
+
+
+
+
+      
+
+
+
+</body>
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                     
+
 
 
 
