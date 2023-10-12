@@ -19,6 +19,48 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
     <!--google fonts-->
 
+    </head>
+ 
+
+<body>
+ 
+    <nav class="navbar navbar-expand-lg" id="navbar">
+        <div class="container">
+          <a class="navbar-brand" href="index.html" id="logo"><span>JAMES</span>TOURS</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+            <span><i class="fa-solid fa-bars"></i></span>
+          </button>
+          <div class="collapse navbar-collapse" id="mynavbar">
+            <ul class="navbar-nav me-auto">
+              <li class="nav-item">
+                <a class="nav-link active" href="index.html">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#book">Registro</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#paquetes">Paquetes</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#Servicios">Promociones</a>
+              </li>
+              <!--
+              <li class="nav-item">
+              <a class="nav-link" href="#Galeria">Galeria</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#About">About</a>
+              </li> -->
+
+            </ul>
+            <form class="d-flex">
+              <input class="form-control me-2" type="text" placeholder="Buscar">
+              <button class="btn btn-primary" type="button">Buscar</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+
 
 
       
