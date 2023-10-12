@@ -55,3 +55,42 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.home .content{
+    text-align: center;
+    padding-top: 200px;
+}
+.home .content h5{
+    color: white;
+    font-size: 39px;
+    font-weight: 500;
+    text-shadow: 2px 5px 1px rgb(0, 0, 0);
+}
+.home .content h1{
+    color: white;
+    font-size: 70px;
+    font-weight: 400;
+    text-shadow: 3px 5px 1px rgb(0, 0, 0);
+    margin-top: 5px;
+
+}
+.changecontent::after{
+    content: ' ';
+    color: orange;
+    text-shadow: 2px 4px 1px rgb(0, 0, 0);
+    animation: changetext 30s infinite linear;
+}
+@keyframes changetext{
+    0%{content: " Kotosh";}
+    10%{content: " Puente Calicanto ";}
+    20%{content: " Casa de la Perricholi ";}
+    30%{content: " Plaza de Armas de Huánuco ";}
+    40%{content: " Huánuco Pampa";}
+    50%{content: " Iglesia de San Francisco ";}
+    60%{content: " Lagunas de Pichgacocha ";}
+    70%{content: " Catedral de Huánuco ";}
+    80%{content: " Parque nacional tingo maría ";}
+    90%{content: " La corona del inca";}
+    100%{content:" Cueva de las lechuzas ";}
+    110%{content:" La bella durmiente";}
+    120%{content:" Iglesia de San Sebastián";}
+}
