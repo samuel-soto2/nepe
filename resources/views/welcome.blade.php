@@ -60,6 +60,34 @@
           </div>
         </div>
       </nav>
+      <!--home section stard-->
+
+      <div class="home">
+        <div class="content">
+          <h5>HUÁNUCO LA CIUDAD DE LA ETERNA PRIMAVERA</h5>
+          <h1> ENCANTATE CON <span class="changecontent"></span></h1>
+          <p>Conozca Huánuco y sus encantos<br> Ven y vive de esta maravillosa experiencia con JAMES TOURS</p>
+          <a href="#book">DISFRUTA</a>
+        </div>
+      </div>
+
+      <!--home section end-->
+
+
+      <!-- section book stard -->
+      <section class="book" id="book">
+        <div class="container">
+
+          <div class="main-text">
+            <h1><span>R</span>egistro</h1>
+          </div>
+          <div class="row">
+            <div class="col-md-6 py-3 py-md-0">
+            <div class="card">
+              <img src="{{ asset('imagenes/negrito.jpg') }}" alt="">
+            </div>
+          </div>
+
 
 
 
