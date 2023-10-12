@@ -125,6 +125,39 @@
                 <img src="{{ asset('imagenes/1.webp') }}" alt="">
 -->
                 <div class="card-body">
+                <h3> KOTOSH </h3>
+                  <p>Kotosh, en Huanuco, Perú, es un antiguo sitio arqueológico con un templo destacado llamado "Templo de las Manos Cruzadas". Se cree que data del período Arcaico Tardío (3500-1800 a.C.) y ofrece información sobre la cultura andina temprana.</p>
+                  <div class="stard">
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                  </div>
+                  <h6>Precio: <strong>$50.00</strong></h6>
+                  <a href="#book">Reserva ahora</a>
+                </div>
+              </div>
+
+            </div>
+          
+          </div>
+          
+        </div>
+      </section>
+
+      <div class="row" style="margin-top: 30px;">
+
+            <div class="col-md-4 py-3 py-md-0">
+
+              <div class="card">
+              <img src="{{ asset('imagenes/cueva.jpg') }}" alt="">
+              
+               <!-- <img src="./images/1.webp" alt="">
+                <img src="{{ asset('imagenes/1.webp') }}" alt="">
+-->
+                <div class="card-body">
+                    
 
 
 
