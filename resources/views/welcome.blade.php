@@ -71,6 +71,9 @@
         </div>
       </div>
 
+
+    
+
       <!--home section end-->
 
 
@@ -107,7 +110,8 @@
 
       <!-- section paquetes stard -->
 
-      <section class="paquetes" id="">
+      
+      <section class="paquetes" id="paquetes">
         <div class="container">
           
           <div class="main-text">
@@ -210,6 +214,175 @@
         </div>
       </section>
 
+      <div class="row" style="margin-top: 30px;">
+
+            <div class="col-md-4 py-3 py-md-0">
+
+              <div class="card">
+              <img src="{{ asset('imagenes/laguna.jpg') }}" alt="">
+              
+               <!-- <img src="./images/1.webp" alt="">
+                <img src="{{ asset('imagenes/1.webp') }}" alt="">
+-->
+                <div class="card-body">
+                <h3> LAGUNAS DE PICHGACOCHA </h3>
+                  <p> Las 5 Lagunas de Pichgacocha son una maravilla hídrica de la naturaleza en lo alto del pueblo de Chonchamarca, distrito de Ambo.</p>
+                  <div class="stard">
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                  </div>
+                  <h6>Precio: <strong>$160.00</strong></h6>
+                  <a href="#book">Reserva ahora</a>
+                </div>
+              </div>
+
+            </div>
+          
+          </div>
+          
+        </div>
+      </section>
+
+      <div class="row" style="margin-top: 30px;">
+
+            <div class="col-md-4 py-3 py-md-0">
+
+              <div class="card">
+              <img src="{{ asset('imagenes/pampa.jpg') }}" alt="">
+              
+               <!-- <img src="./images/1.webp" alt="">
+                <img src="{{ asset('imagenes/1.webp') }}" alt="">
+-->
+                <div class="card-body">
+                <h3> COMPLEJO HUÁNUCO PAMPA </h3>
+                  <p>También conocido como Huánuco Marka o Huánuco Viejo, fue un centro administrativo inca y un importante centro de producción de tejidos de alta calidad localizado a 3.697 metros sobre el nivel del mar. Su construcción se habría iniciado en 1460 e interrumpido en 1539 por la llegada y conquista de los españoles.</p>
+                  <div class="stard">
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                  </div>
+                  <h6>Precio: <strong>$120.00</strong></h6>
+                  <a href="#book">Reserva ahora</a>
+                </div>
+              </div>
+
+            </div>
+          
+          </div>
+          
+        </div>
+      </section>
+
+      <div class="row" style="margin-top: 30px;">
+
+            <div class="col-md-4 py-3 py-md-0">
+
+              <div class="card">
+              <img src="{{ asset('imagenes/iglesia.jpg') }}" alt="">
+              
+               <!-- <img src="./images/1.webp" alt="">
+                <img src="{{ asset('imagenes/1.webp') }}" alt="">
+-->
+                <div class="card-body">
+                <h3> IGLESIA DE SAN SEBASTIÁN </h3>
+                  <p>El templo original fue levantado a principios del siglo XVII por el hermano Diego de las Casas. La iglesia cuenta con un diseño arquitectónico colonial y posee la única escultura en el mundo en la que la imagen de San Sebastián aparece con manchas de viruela en el cuerpo. </p>
+                  <div class="stard">
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                  </div>
+                  <h6>Precio: <strong>$50.00</strong></h6>
+                  <a href="#book">Reserva ahora</a>
+                </div>
+              </div>
+
+            </div>
+          
+          </div>
+          
+        </div>
+      </section>
+
+      <div class="row" style="margin-top: 30px;">
+
+            <div class="col-md-4 py-3 py-md-0">
+
+              <div class="card">
+              <img src="{{ asset('imagenes/calicanto.jpg') }}" alt="">
+              
+               <!-- <img src="./images/1.webp" alt="">
+                <img src="{{ asset('imagenes/1.webp') }}" alt="">
+-->
+                <div class="card-body">
+                <h3> PUENTE CALICANTO</h3>
+                  <p>Se empezó a edificar en 1879 y se terminó 5 años después. El puente une los centros urbanos de los distritos de Huánuco y Amarilis. Esta edificación está compuesta por piedra granítica, labrada y unida con argamasa conformada de arena, cal y clara de huevo. </p>
+                  <div class="stard">
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                  </div>
+                  <h6>Precio: <strong>$30.00</strong></h6>
+                  <a href="#book">Reserva ahora</a>
+                </div>
+              </div>
+
+            </div>
+          
+          </div>
+          
+        </div>
+      </section>
+
+      <section class="Servicios" id="Servicios">
+        <div class="container">
+          
+          <div class="main-text">
+            <h1><span>N</span>uestros Promociones</h1>
+          </div>
+
+          <div class="row" style="margin-top: 30px;">
+
+            <div class="col-md-4 py-3 py-md-0">
+
+              <div class="card">
+              <img src="{{ asset('imagenes/regalo.jpg') }}" alt="">
+              
+               <!-- <img src="./images/1.webp" alt="">
+                <img src="{{ asset('imagenes/1.webp') }}" alt="">
+-->
+                <div class="card-body">
+                <h3> NUESTROS REGALOS </h3>
+                  <p> Se elaboran los trajes de los negritos, banderines, vestimenta típica, estandartes, banderolas, cotones para lo cual utilizan pana, razo, velur, flecos, mostacilla.</p>
+                  <div class="stard">
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                    <i class="fa-solid fa-star checked"></i>
+                  </div>
+                  <h6>Descuento: <strong>Gratis</strong></h6>
+                  <a href="#book">Visita Huánuco</a>
+                </div>
+              </div>
+
+            </div>
+          
+          </div>
+          
+        </div>
+      </section>
+
+      
+
 
       
 
@@ -232,61 +405,3 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </html>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    
-
-
-
-
-
-      
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
